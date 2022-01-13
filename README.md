@@ -12,9 +12,10 @@ the Pomodoro Technique.
 |---|---|
 
 ### Demo
-
+![pomodoro](https://raw.githubusercontent.com/sarveshspatil111/pomodoro/main/assets/pomodoro.gif)
 
 <hr>
+
 #### Technologies used
 - HTML
 - CSS
